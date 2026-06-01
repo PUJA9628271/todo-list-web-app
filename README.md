@@ -1,2 +1,10 @@
 # todo-list-web-app
-A simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, complete, and delete tasks through a clean and user-friendly interface.
+
+Features:
+- Add tasks
+- Delete tasks
+- Save tasks in Local Storage
+- Press Enter to add task
+
+Live Demo:
+https://puja9628271.github.io/todo-list-web-app/
